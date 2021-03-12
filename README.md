@@ -1,1 +1,1 @@
-# wanago-app
+# wanago-app NODE.js + PostgreSQL
